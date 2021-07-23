@@ -1,5 +1,5 @@
 baseURL = "https://vbssbrt.org"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
@@ -130,14 +130,14 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
+address = "World"
+author = "Anjani"
 contact_form_action = "#"
 description = "This is meta description"
-email = "info@educenter.com"
+email = "anjani@vbssbrt.org"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = "+917011221755"
 top_header = true
 [params.cookies]
 enable = true
