@@ -67,68 +67,6 @@ weight = 4
 name = "Contact"
 url = "contact"
 weight = 5
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2021"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
-[[Languages.fr.menu.footer]]
-name = "teacher"
-url = "teacher"
-[[Languages.fr.menu.footer]]
-name = "notice"
-url = "notice"
-[[Languages.fr.menu.footer]]
-name = "event"
-url = "event"
-[[Languages.fr.menu.footer]]
-name = "scholarship"
-url = "scholarship"
-[[Languages.fr.menu.footer]]
-name = "research"
-url = "research"
-[[Languages.fr.menu.main]]
-name = "À propos"
-url = "about"
-weight = 1
-[[Languages.fr.menu.main]]
-name = "Cours"
-url = "course"
-weight = 2
-[[Languages.fr.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 3
-[[Languages.fr.menu.main]]
-name = "teacher"
-parent = "Pages"
-url = "teacher"
-[[Languages.fr.menu.main]]
-name = "notice"
-parent = "Pages"
-url = "notice"
-[[Languages.fr.menu.main]]
-name = "Évènement"
-parent = "Pages"
-url = "event"
-[[Languages.fr.menu.main]]
-name = "Cursus"
-parent = "Pages"
-url = "scholarship"
-[[Languages.fr.menu.main]]
-name = "research"
-parent = "Pages"
-url = "research"
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "blog"
-weight = 4
-[[Languages.fr.menu.main]]
-name = "Contact"
-url = "contact"
-weight = 5
 [params]
 address = "Nepal"
 author = "Anjani"
@@ -137,7 +75,7 @@ description = "This is meta description"
 email = "info@vbssbrt.org"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+977-"
+mobile = "+977-9812306525"
 top_header = true
 [params.cookies]
 enable = true
