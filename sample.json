@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "success": 1,
+            "results": [
+                {
+                    "media_url": "https://static-assets-cdn.crisps.tech/images/1640357724970-RISPS.png",
+                    "title": "Test Sample",
+                    "content": "Hello World",
+                    "source_name": "EKantipur",
+                    "bottom_headline": "Hello",
+                    "bottom_text": "hgellow",
+                    "endline": "sfsgsgsg",
+                    "crisp_author": "Anjani Kumar Thakur",
+                    "author_id": 1,
+                    "author_comments": "Test",
+                    "source_url": "https://ekantipur.com/news",
+                    "shortened_url": "Ahsie23",
+                    "category_id": "1,2",
+                    "type": "img_news",
+                    "tags": "Key",
+                    "created_at": 1640183288
+                },
+                {
+                    "media_url": "https://static-assets-cdn.crisps.tech/1639927628-information-system-supporting-science.jpg",
+                    "title": "Test Sample",
+                    "content": "Hello World",
+                    "source_name": "EKantipur",
+                    "bottom_headline": "Hello",
+                    "bottom_text": "hgellow",
+                    "endline": "sfsgsgsg",
+                    "crisp_author": "Anjani Kumar Thakur",
+                    "author_id": 1,
+                    "author_comments": "Test",
+                    "source_url": "https://ekantipur.com/news",
+                    "shortened_url": "Ahsie23",
+                    "category_id": "1,2",
+                    "type": "img_news",
+                    "tags": "Key",
+                    "created_at": 1640183288
+                }
+            ]
+        }
+    ]
+}
